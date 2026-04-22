@@ -1,0 +1,19 @@
+### 2. `package.json`
+
+```json
+{
+  "name": "intelligent-lora-gateway",
+  "version": "1.0.0",
+  "description": "A local LoRaWAN gateway server and packet decoder.",
+  "main": "decoder.js",
+  "scripts": {
+    "start": "node decoder.js"
+  },
+  "author": "Naveed Akhtar",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "lora-packet": "^0.7.8",
+    "node-aes-cmac": "^0.1.1"
+  }
+}
