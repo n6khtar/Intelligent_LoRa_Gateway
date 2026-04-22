@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Mac OS
+.DS_Store
+
+# Configuration files with private keys (if you create a separate config file later)
+config.js
+.env
