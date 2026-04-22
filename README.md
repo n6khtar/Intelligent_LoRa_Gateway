@@ -79,3 +79,5 @@ The Things Network Forum (https://www.thethingsnetwork.org/forum/)
 Hackster: Build a LoRa Gateway with n-fuse mPCIe card (https://www.hackster.io/fewi/build-a-lora-gateway-with-n-fuse-mpcie-card-71f0e1)
 
 n-fuse LoRaWAN Concentrator Card (https://www.n-fuse.co/devices/LoRaWAN-Concentrator-Card-mini-PCIe.html)
+
+PoE enabled Raspberry Pi 3B+ based LoRaWAN® Gateway (https://www.n-fuse.co/devices/LoRaWAN-Gateway-RaspberryPi-PoE.html)
