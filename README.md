@@ -1,2 +1,1 @@
-# intelligent-lora-gateway
-Project - Intelligent LoRa Gateway
+# Intelligent LoRa Gateway
